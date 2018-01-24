@@ -1,23 +1,23 @@
 # Grub-Background-Changer
 
-*Get the Grub-Customizer
+* Get the Grub-Customizer
 - sudo apt-get grub-customizer
 
 
-*Set the Images Folder in Grub Background
+* Set the Images Folder in Grub Background
 
 
-*Get the Dependencies
+* Get the Dependencies
 - sudo apt-get install -y nodejs
 - sudo npm install request cheerio fs
 
 
-*Run the .js file to download the image
+* Run the .js file to download the image
 - node scrap.js
 
 
-*Update Grub to get the downloaded image as your Grub background
+* Update Grub to get the downloaded image as your Grub background
 - sudo update-grub
 
-*The image is set as your BG image for grub!!
+* The image is set as your BG image for grub!!
 
